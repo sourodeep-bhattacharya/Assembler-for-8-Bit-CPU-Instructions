@@ -6,11 +6,7 @@ public class Assembler {
     
     
     
-//new plan: 
-    //for each line, pull out any data and store it somewhere with line number
-    //for every other "word" in INST, covert to binary code 
-        //when parsing together, if there are 3 "codes", combine
-        //else, if two codes, then add 00 before regB
+
 
 //Methods: 
     //scanFile
